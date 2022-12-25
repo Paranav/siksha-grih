@@ -1,0 +1,6 @@
+2022-12-11 01:58:20,770 INFO com.app.controller.StudentTeacherController [restartedMain] StudentTeacher constructor initiated @@@
+2022-12-11 01:58:20,795 INFO com.app.controller.TeacherController [restartedMain] Teacher Controller constructor Initiated @@
+2022-12-11 01:58:20,813 INFO com.app.controller.UserController [restartedMain] User Controller constructor Initiated @@
+2022-12-11 02:01:12,103 INFO com.app.controller.StudentTeacherController [restartedMain] StudentTeacher constructor initiated @@@
+2022-12-11 02:01:12,131 INFO com.app.controller.TeacherController [restartedMain] Teacher Controller constructor Initiated @@
+2022-12-11 02:01:12,156 INFO com.app.controller.UserController [restartedMain] User Controller constructor Initiated @@
